@@ -1,0 +1,22 @@
+header{
+
+    background: linear-gradient(rgb(173, 170, 213),rgb(151, 151, 152) );
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+}
+
+img{
+    border-radius: 25px;
+
+}
+
+footer{
+    font-weight: solid;
+    background-color: rgb(198, 189, 179);
+}
+
+section{
+background-color: rgb(174, 152, 126);
+}
